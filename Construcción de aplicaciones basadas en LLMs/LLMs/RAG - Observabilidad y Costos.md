@@ -12,3 +12,28 @@ La observabilidad permite:
 - Ajustar dinámicamente el sistema para mantener viabilidad económica.
 
 Un sistema RAG sin observabilidad tiende a escalar costos de forma impredecible.
+
+Aspectos clave del modelo de costos:
+
+- Tokens de salida suelen ser más costosos que los de entrada.
+    
+- Modelos más potentes son significativamente más caros.
+    
+- Procesamiento multimodal tiene costos adicionales.
+    
+- Funciones avanzadas pueden generar cargos extra.
+    
+
+### Estrategias recomendadas
+
+- Monitoreo de tokens, latencia y errores.
+    
+- Alertas de consumo.
+    
+- Caching de respuestas.
+    
+- Selección dinámica de modelos.
+    
+- Optimización continua de prompts.
+    
+- Auditoría y trazabilidad.
