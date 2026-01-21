@@ -438,7 +438,7 @@ El Internet de las Cosas puede entenderse como la **materialización tecnológic
 > Objetos cotidianos que combinan función, inteligencia y conectividad, integrándose de forma casi mágica en la vida diaria.
 
 
-## Who Is Making the Internet of Things?
+### Who Is Making the Internet of Things?
 ### 🔹 Un campo interdisciplinario
 
 Las fronteras entre disciplinas son difusas:
@@ -480,3 +480,11 @@ Aunque la creación de un objeto IoT puede parecer compleja, la diversidad de ha
 ### 🔹 Idea clave
 
 > El Internet de las Cosas es un terreno interdisciplinario donde convergen objeto físico, computación integrada y servicios en Internet, y donde **no existe un único perfil “correcto” para participar**.
+
+
+## Los dominios de aplicación de los sistemas IoT
+- Vehículos conectados, buses, trenes
+- vehículos eléctricos o sin conductor
+- salud
+	- hospitales, clínicas
+	- investigación
