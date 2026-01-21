@@ -6,4 +6,4 @@ title: Inicio
 
 Bienvenida/o a mis notas publicadas desde Obsidian 🚀
 
-- [[Internet de las cosas]]
+- [[IoT]]
