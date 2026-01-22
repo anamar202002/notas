@@ -1,6 +1,6 @@
 ### Principales frameworks
 
-- **LangChain**: orquestación, prompts, integración con herramientas.
+- [[LangChain]]: orquestación, prompts, integración con herramientas.
     
 - **LlamaIndex**: indexación y recuperación de datos, ideal para RAG.
     

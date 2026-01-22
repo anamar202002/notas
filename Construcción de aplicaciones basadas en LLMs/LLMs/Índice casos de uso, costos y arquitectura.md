@@ -2,6 +2,9 @@
 
 La Generación Aumentada por Recuperación (Retrieval-Augmented Generation, RAG) es un patrón arquitectónico que combina modelos de lenguaje de gran escala (LLMs) con mecanismos de recuperación de información desde fuentes externas confiables.
 
+> [!Idea principal]
+> **RAG** permite que el modelo recupere información de fuentes externa
+
 El objetivo fundamental de RAG es **superar las limitaciones inherentes de los LLMs**, particularmente:
 - Su conocimiento estático, limitado al momento de entrenamiento.
 - La tendencia a generar alucinaciones cuando carecen de información suficiente o verificable.
