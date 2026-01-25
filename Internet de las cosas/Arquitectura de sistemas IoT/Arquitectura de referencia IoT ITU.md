@@ -1,4 +1,12 @@
-## Arquitectura de Referencia IoT
+# Arquitectura de referencia IoT ITU
+
+La Unión Internacional de Telecomunicaciones (ITU) es el organismo especializado de las Naciones Unidas en telecomunicaciones y tecnologías de información y comunicación.
+
+A través del sector ITU-T, se promueve la normalización de las telecomunicaciones a nivel mundial.
+
+Por esta razón, se adopta como referencia el modelo definido en la recomendación Y.4000 / Y.2060.
+
+## Diagrama de las capas
 
 <h3 style="text-align:center; margin-bottom:20px;">
   Arquitectura de Referencia IoT
@@ -120,5 +128,28 @@
 
 </table>
 
-MySUDS
-- sistema de drenaje urbano automatizado e inteligente
+
+## Capas del modelo
+1. [[Capa de dispositivo IoT]]
+2. [[Capa de red]]
+3. [[Capa de apoyo a aplicaciones y servicios]]
+4. [[Capa de aplicación]]
+
+## Capacidades transversales
+- [[Gestión IoT]]
+- [[Seguridad IoT]]
+
+Este modelo permite el modelado de cualquier sistema IoT, independientemente de su nivel de complejidad.
+
+# Interoperabilidad como reto del IoT
+
+La coexistencia de múltiples arquitecturas IoT, terminologías y tecnologías limita la interoperabilidad entre sistemas.
+
+Este problema motiva:
+- Arquitecturas de referencia
+- Normalización (ITU)
+
+## Notas conceptuales relacionadas
+- [[IoT como infraestructura global]]
+- [[Any Thing communication]]
+- [[Thing y dispositivo no son lo mismo]]

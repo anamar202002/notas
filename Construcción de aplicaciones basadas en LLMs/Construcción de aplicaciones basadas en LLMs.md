@@ -202,3 +202,17 @@ flowchart LR
 
 
 ## Introducción a LangChain: Framework para aplicaciones con LLMs
+
+## Clase
+- integraciones con otros productos, la IA ahora hace parte de nuestro pan de cada día
+- n8n automatización de flujos
+- integrar dentro de la estructura de nuestras soluciones y desarrollo
+- reducir las alusinaciones
+	- fuentes de info verificables
+- NotebookLM:
+	- puedo subir un doc, lo alimento y puedo hacerle preguntas
+	- utiliza el k que tengo dentro de mis fuentes de info
+- Entregas:
+	- 4 y 8
+- Google AI Studio
+	- desarrolladores
