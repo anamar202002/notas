@@ -1,6 +1,8 @@
 Large Language Model
 # Semana 1
 - [[Índice casos de uso, costos y arquitectura]]
+-  [[LangChain]]
+- [[LangChain vs LangGraph]]
 ## Arquitectura de aplicaciones basadas en LLMs
 Antes teníamos un front que se conectaba al back mediante una API, ahora con los LLM es más complejo el tema.
 Ahora hay un preprocesamiento que llama al orquestador LLM:
