@@ -1,4 +1,4 @@
-### 🔹 Proximidad
+ ### 🔹 Proximidad
 
 **RFID (Radio Frequency Identification)**  
 Tecnología para identificación de objetos mediante etiquetas que transmiten un identificador único por radiofrecuencia. No requiere línea de vista directa. Un sistema RFID se compone de etiqueta, lector y aplicación de procesamiento.

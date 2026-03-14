@@ -102,3 +102,27 @@ graph TD
 
 [[🌐 Capa de Comunicaciones en Sistemas IoT]]
 [[📡 Tecnologías de Comunicaciones para IoT]]
+[[La seguridad en los Sistemas IoT]]
+
+## Clase:
+redes de sensores inalámbricas WSN
+- nodos de sensado que se conectan entre ellos de manera inalambrica
+- no hay ip
+	- red con infra 
+		- punto de acceso, uno solo
+	- sin infra
+		- redes ad hoc
+		- se interconectan
+		- permite conexión de a a b con nodos (receptores y transmisores)
+		- conectar el compu al celu
+
+redes de sensores inalámbricas WBAN/WBANSN
+- sensores que van en el cuerpo
+
+
+frecuencias bajas:
+- menor cantidad ancho de banda
+- mayores distancias
+Frecuencias altas:
+- mayor ancho de banda (data a transmitir)
+- menor distancia
